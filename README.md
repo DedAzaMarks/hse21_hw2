@@ -1,5 +1,5 @@
 # hse21_hw2
-[Подготовка файлов для аннотации](https://colab.research.google.com/drive/1Sa-GymIpssCgaRTYjrSJuXNkqBXO6hQL?usp=sharing)
+[Подготовка файлов для аннотации](https://colab.research.google.com/drive/1Sa-GymIpssCgaRTYjrSJuXNkqBXO6hQL?usp=sharing)  
 [Создания аннотированного генома](https://colab.research.google.com/drive/1pL_HWWEo0JLaaTJN2686PvTovYSxXLCl?usp=sharing)
 
 | _                                                                      | количество |
